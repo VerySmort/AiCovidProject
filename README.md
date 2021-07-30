@@ -1,0 +1,2 @@
+# AiCovidProject
+Scratch project
